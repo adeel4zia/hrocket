@@ -2,7 +2,7 @@ siteName = "HRocket"
 theme = "HR_Publisher"
 disqusShortname = ""
 BuilPath = "/home/noushervan/hrocket/docs"
-publishDir = "/hrocket-test"
+publishDir = "/hrocket"
 logoLink = "/"
 metaKeywords = "HTML, CSS, XML, XHTML, JavaScript"
 googleAnalyticsTrackingId = "UA-232232-34"
@@ -11,13 +11,13 @@ robotsAllow = "False"
 
 [[mainMenu]]
   name = "Home"
-  url = "/"
+  url = "/hrocket"
 [[mainMenu]]
   name = "About"
-  url = "/content/pages/about"
+  url = "/hrocket/content/pages/about"
 [[mainMenu]]
   name = "Blogs"
-  url = "/content/pages/blogs"
+  url = "/hrocket/content/pages/blogs"
 
 
 [params]
